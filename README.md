@@ -6,7 +6,6 @@
 
 - 💞️ I’m looking to collaborate. Would love to help with anything.
 
-- 📫 DM on twitter @0xColinR
 
 <!---
 CloudBop/CloudBop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
